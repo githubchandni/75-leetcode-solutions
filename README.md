@@ -6,6 +6,7 @@ Repository Structure
 The solutions are organized by difficulty level and problem number. Each problem has its dedicated folder containing the source code (in [language]) and a brief explanation of the approach and algorithm used. The structure is as follows:
 
 scss
+'''
 Copy code
 ├── Easy
 │   ├── Problem1
@@ -24,6 +25,7 @@ Copy code
 │   │   ├── solution.[ext]
 │   │   └── explanation.md
 │   ├── ...
+'''
 How to Use
 Clone the Repository:
 
