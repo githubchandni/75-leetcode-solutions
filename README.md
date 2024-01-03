@@ -5,7 +5,8 @@ Welcome to my LeetCode solutions repository! This collection includes solutions 
 Repository Structure
 The solutions are organized by difficulty level and problem number. Each problem has its dedicated folder containing the source code (in [language]) and a brief explanation of the approach and algorithm used. The structure is as follows:
 
-```markdown scss
+```markdown
+ scss
 
 Copy code
 ├── Easy
@@ -29,9 +30,10 @@ Copy code
 How to Use
 Clone the Repository:
 
-```markdown bash
+```markdown
+bash
 Copy code
-git clone https://github.com/your-username/leetcode-solutions.git
+git clone https://github.com/your-username/75-leetcode-solutions.git
 ```
 Navigate to the Desired Problem:
 Browse through the folder structure to find the problem you're interested in.
@@ -48,7 +50,7 @@ These solutions are provided for educational purposes, and it's crucial to under
 Connect with Me
 If you have any questions, suggestions, or just want to connect, feel free to reach out:
 
-LinkedIn: Your LinkedIn Profile
-Email: your.email@example.com
+LinkedIn: https://www.linkedin.com/in/chandnikalwani/
+Email: cheenuk24@gmail.com
 Happy coding!
 
