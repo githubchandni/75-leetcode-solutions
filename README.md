@@ -33,7 +33,7 @@ Clone the Repository:
 ```
 # bash
 Copy code
-git clone https://github.com/your-username/75-leetcode-solutions.git
+git clone https://github.com/githubchandni/75-leetcode-solutions.git
 ```
 Navigate to the Desired Problem:
 Browse through the folder structure to find the problem you're interested in.
