@@ -3,7 +3,7 @@ LeetCode Solutions Repository
 Welcome to my LeetCode solutions repository! This collection includes solutions to various LeetCode problems, showcasing my problem-solving skills and algorithmic proficiency. Whether you're a fellow coder looking for insights or an interviewer seeking examples of my coding abilities, you've come to the right place.
 
 Repository Structure
-The solutions are organized by difficulty level and problem number. Each problem has its dedicated folder containing the source code (in [language]) and a brief explanation of the approach and algorithm used. The structure is as follows:
+The solutions are organized by difficulty level. Each problem has its dedicated folder containing the source code (in [language]) and a brief explanation of the approach and algorithm used. The structure is as follows:
 
 ```
 # scss
