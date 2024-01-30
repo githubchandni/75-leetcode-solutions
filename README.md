@@ -39,7 +39,7 @@ Navigate to the Desired Problem:
 Browse through the folder structure to find the problem you're interested in.
 
 Review the Solution:
-Open the solution file (e.g., solution.[ext]) to view the source code.
+Open the solution file to view the source code.
 
 Contribute:
 If you have alternative solutions or improvements, feel free to open a pull request! Contributions are highly appreciated.
