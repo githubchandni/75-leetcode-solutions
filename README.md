@@ -1,4 +1,4 @@
-# 75-leetcode-solutions hello everyone
+# 75-leetcode-solutions 
 LeetCode Solutions Repository
 Welcome to my LeetCode solutions repository! This collection includes solutions to various LeetCode problems, showcasing my problem-solving skills and algorithmic proficiency. Whether you're a fellow coder looking for insights or an interviewer seeking examples of my coding abilities, you've come to the right place.
 
